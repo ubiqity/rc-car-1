@@ -19,7 +19,7 @@ make the car go front then
 ```
 make the car stop.
 
-Once you made that working, we will like to allow anyone to be able to drive the car from anywhere on internet, provided we grant him the permission.
+Once you made that working, we would like to allow anyone to be able to drive the car from anywhere on internet, provided we grant him the permission.
 
 For this we need to install on a device running on the same LAN the ubiqity zone controler.
 
